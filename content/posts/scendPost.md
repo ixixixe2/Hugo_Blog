@@ -1,6 +1,6 @@
 ---
-title: "ScendPost"
+title: "second post"
 date: 2023-04-03T15:38:28+08:00
 ---
 
-this is  scend post！
+this is second test post！
