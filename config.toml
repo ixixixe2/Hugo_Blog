@@ -2,7 +2,7 @@ baseURL = 'http://example.org/'
 
 title = 'My New Hugo Site'
 
-theme = "LoveIt"
+theme = "hugo-theme-hello-friend-3.0.0"
 
 # 网站语言, 仅在这里 CN 大写 ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "zh-CN"
